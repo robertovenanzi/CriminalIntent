@@ -18,11 +18,11 @@ public class Crime {
         mDate = new Date();
     }
 
-    public UUID getmId() {
+    public UUID getId() {
         return mId;
     }
 
-    public String getmTitle() {
+    public String getTitle() {
         return mTitle;
     }
 
